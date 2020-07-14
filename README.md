@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning Electron.js
 - 🤔 I’m looking for help with web sockets (socket.io in particular) for a multiplayer game
 - 💬 Ask me about ReactJS, CSS, Philosophy and Anime
-- 📫 How to reach me @exploreraadi on Twitter
+- 📫 Reach me @exploreraadi on Twitter
 - ⚡ For my portfolio, visit https://exploreraadi.vercel.app
