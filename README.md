@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### My name is Aditya
 
-- 🔭 I’m currently working with React.js and Tailwind CSS
-- 🌱 I’m currently learning Electron.js
-- 🤔 I’m looking for help with web sockets (socket.io in particular) for a multiplayer game
+- 🔭 I’m currently working with React.js and Typescript
+- 🌱 I’m currently learning Typescript
+- 🤔 I’m looking for help with web sockets (socket.io in particular) and working with service workers
 - 💬 Ask me about ReactJS, CSS, Philosophy and Anime
-- 📫 Reach me @exploreraadi on Twitter
+- 📫 Ping me @exploreraadi on Twitter
 - ⚡ For my portfolio, visit https://exploreraadi.vercel.app
