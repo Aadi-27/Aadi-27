@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning Typescript
 - 🤔 I’m looking for help with web sockets (socket.io in particular) and working with service workers
 - 💬 Ask me about ReactJS, CSS, Philosophy and Anime
-- 📫 Ping me @exploreraadi on Twitter
-- ⚡ For my portfolio, [visit](https://exploreraadi.vercel.app)
+- 📫 To ping me on Twitter, [click here](https://twitter.com/ExplorerAadi)
+- ⚡ To visit my portfolio, [click here](https://exploreraadi.vercel.app)
